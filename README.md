@@ -3,4 +3,5 @@
 -estado del proyecto en construccion.
 
 para ejecutar el sistema tienes que hacer;
+
 ```npm instal```
