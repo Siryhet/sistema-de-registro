@@ -5,3 +5,4 @@
 para ejecutar el sistema tienes que hacer;
 
 ```npm instal```
+Sistema de registro 
